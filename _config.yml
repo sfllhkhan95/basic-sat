@@ -1,2 +1,23 @@
 remote_theme: saifkhichi96/simple-material
+
+# theme customization
+title: BasicSAT
 logo: https://saifkhichi96.github.io/assets/images/logo.png
+
+baseurl: /
+navigation_main:
+- title: Home
+  icon: home
+  url: /
+- title: Experience
+  icon: work
+  url: /resume/
+- title: Projects
+  icon: dashboard
+  url: /projects/
+- title: Services
+  icon: extension
+  url: /services/
+- title: Contact
+  icon: contact_support
+  url: /contact/
